@@ -1,4 +1,4 @@
-package com.example.myapp
+package jinwoo.myapp1
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
